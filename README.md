@@ -1,9 +1,10 @@
 # 👋 Hi there, my name is Salvatore Matrisciano
-### I'm a Mobile Developer at Deloitte, Milano
 
-![https://github.com/antoniolg](https://yt3.ggpht.com/V94-R66lnyAKjlb4LGhoxF1_XuNTeA6Y5r2WYrb3x6EYbqIw1Yh_uxUddgQACOmBJYPMFJ-FMXA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+### I'm a Mobile Developer at Deloitte, Milano and a Computer Engineering student at Alma Mater Studiorum - Università di Bologna
 
-I help developers reach their goals with my training and mentoring.
+
+
+
 
 ## Learn with me
 
