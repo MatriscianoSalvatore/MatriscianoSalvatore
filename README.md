@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-salvatore_matrisciano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/salvatore-matrisciano/)
 [![Instagram](https://img.shields.io/badge/Instagram-@salvatore.matrisciano-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/salvatore.matrisciano)
 [![Facebook](https://img.shields.io/badge/Facebook-Salvatore_Matrisciano-3b5998?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/matrisciano.s/)
-[![Twitter](https://img.shields.io/badge/Twitter-@Matrisciano_S-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/matrisciano_s)
+[![Twitter](https://img.shields.io/badge/Twitter-@SalvatoreMatrisciano-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/matrisciano_s)
 
 ## Contact me:
 
