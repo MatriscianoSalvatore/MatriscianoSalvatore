@@ -1,4 +1,4 @@
-# 👋 Hi there, my name is [Salvatore Matrisciano](https://twitter.com/matrisciano_s)
+# 👋 Hi there, my name is [Salvatore Matrisciano](https://salvatorematrisciano.com)
 
 ### I'm a Mobile Developer at Deloitte, Milano and a Computer Engineering Student at Alma Mater Studiorum - Università di Bologna
 
