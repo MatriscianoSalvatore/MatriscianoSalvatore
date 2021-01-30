@@ -3,9 +3,9 @@
 ### I'm a Mobile Developer at Deloitte, Milano and a Computer Engineering student at Alma Mater Studiorum - Università di Bologna
 
 ## Skills:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![Ionic](https://img.shields.io/badge/Ionic-0095D5?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010)</br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
+![Ionic](https://img.shields.io/badge/Ionic-0095D5?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010)
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
 
 ## Find me at:
 
