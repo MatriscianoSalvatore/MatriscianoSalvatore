@@ -9,6 +9,10 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
 ![Ionic](https://img.shields.io/badge/Ionic-0095D5?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010)
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
+![Java](https://img.shields.io/badge/Java-e01010?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+![Javascript](https://img.shields.io/badge/Javascript-f5da42?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![C](https://img.shields.io/badge/C-0095D5?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
+![Git](https://img.shields.io/badge/Git-ff6a00?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 
 ### Find me at:
 
