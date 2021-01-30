@@ -17,4 +17,4 @@
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/English-antonioleiva.com-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://antonioleiva.com/contact)
+[![Email](https://img.shields.io/badge/Email-s.matrisciano@mail.com-72ae2d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:s.matrisciano@mail.com)
