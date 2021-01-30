@@ -1,7 +1,10 @@
 ## 👋 Hi there, my name is [Salvatore Matrisciano](https://salvatorematrisciano.com)
 
 #### 📱 Mobile Developer at [Deloitte](https://www.deloitte.com), Milano 
-#### 🖥️ Computer Engineering Student at [Alma Mater Studiorum - Università di Bologna](https://corsi.unibo.it/laurea/IngegneriaInformatica)
+#### 🖥️ Computer Engineering Student at [Alma Mater Studiorum - Università di Bologna](https://corsi.unibo.it/laurea/IngegneriaInformatica)<br><br><br>
+
+#### 📱 Formerly Android Developer at [Beeline](https://beeline.co/), London<br><br>
+
 
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
