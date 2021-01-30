@@ -1,6 +1,6 @@
-# 👋 Hi there, my name is Salvatore Matrisciano
+# 👋 Hi there, my name is [Salvatore Matrisciano](https://twitter.com/matrisciano_s)
 
-### I'm a Mobile Developer at Deloitte, Milano and a Computer Engineering student at Alma Mater Studiorum - Università di Bologna
+### I'm a Mobile Developer at Deloitte, Milano and a Computer Engineering Student at Alma Mater Studiorum - Università di Bologna
 
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
