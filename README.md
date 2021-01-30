@@ -13,6 +13,8 @@
 ![Javascript](https://img.shields.io/badge/Javascript-f5da42?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![C](https://img.shields.io/badge/C-0095D5?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/Git-ff6a00?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+![HTML](https://img.shields.io/badge/HTML-e01010?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![CSS](https://img.shields.io/badge/CSS-f5da42?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 
 ### Find me at:
 
