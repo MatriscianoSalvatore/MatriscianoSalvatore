@@ -19,6 +19,7 @@
 ![HTML](https://img.shields.io/badge/HTML-e01010?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS](https://img.shields.io/badge/CSS-f5da42?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
 
 ## Personal website:
 [![Web](https://img.shields.io/badge/My_Website-salvatorematrisciano.com-14a1f0?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://salvatorematrisciano.com)
