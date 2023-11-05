@@ -6,6 +6,7 @@
 
 
 ## Skills:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)
 ![React Native](https://img.shields.io/badge/React_Native-62DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
 ![Ionic](https://img.shields.io/badge/Ionic-0095D5?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010)
@@ -18,7 +19,6 @@
 ![Git](https://img.shields.io/badge/Git-ff6a00?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![HTML](https://img.shields.io/badge/HTML-e01010?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS](https://img.shields.io/badge/CSS-f5da42?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
 
 ## Personal website:
