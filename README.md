@@ -13,8 +13,10 @@ I specialize in mobile app development, with a focus on designing and implementi
 
 Started my career with a 3-month internship as an Android Developer at Beeline in London (Feb-May 2017). 
 
-Passionate about technology, I’ve attended several tech events, like Flutter Heroes 2024 and 2025, MWC Barcelona 2024 and Fluttercon Europe + Droidcon Berlin 2025, where I [co-hosted a talk.](https://www.linkedin.com/posts/salvatore-matrisciano_android-droidcon-kotlin-activity-7377368385291960320-iSrN)
+Passionate about technology, I’ve attended several tech events, like Flutter Heroes 2024 and 2025, MWC Barcelona 2024 and Fluttercon Europe + Droidcon Berlin 2025, where I [co-hosted a talk](https://www.linkedin.com/posts/salvatore-matrisciano_android-droidcon-kotlin-activity-7377368385291960320-iSrN).
 
+
+More at [salvatorematrisciano.com](https://salvatorematrisciano.com/).
 
 <br>
 
@@ -27,7 +29,7 @@ Passionate about technology, I’ve attended several tech events, like Flutter H
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
 ![Dart](https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)
 ![Kotlin](https://img.shields.io/badge/Kotlin-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
-![Java](https://img.shields.io/badge/Java-e01010?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+![Java](https://img.shields.io/badge/Java-e01010?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)
