@@ -5,7 +5,7 @@
 #### 📱 Former Android Developer at [Beeline](https://beeline.co/), London 🇬🇧
 
 <br>
-Senior Mobile Developer with 6 years of experience in native Android and cross-platform development (Flutter, React Native, Ionic), fully focusing on Flutter in recent years.<br>
+Senior Mobile Developer with 6 years of experience in native Android and cross-platform development (Flutter, React Native, Ionic), fully focusing on Flutter in recent years.<br><br>
 
 Currently at Deloitte in Milano since February 2020, leading an international team of 6 mobile developers on the development of the new native Android app for a prestigious Italian luxury automotive manufacturer (Kotlin, Jetpack Compose).
 Previously I led an international team on a Flutter-based IoT app for a well-known Italian coffee machine manufacturer, integrating REST API, AWS IoT Core, WebSocket, and MQTT, and contributed to a Flutter web platform for a European police department within a fully international team.
